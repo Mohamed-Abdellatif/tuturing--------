@@ -19,71 +19,71 @@ const CoursePage = () => {
       courseId: 1,
       subject: "Math",
       courseName: "NU Calculus 1",
-      courseDescription: "From Assignment 1 till Assignment 11",
+      courseDescription: "HW 1 till HW 11",
       assignments: [
         {
           assignmentId: 1,
-          assignmentName: "Assignment 1",
+          assignmentName: "HW 1",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 2,
-          assignmentName: "Assignment 2",
+          assignmentName: "HW 2",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 3,
-          assignmentName: "Assignment 3",
+          assignmentName: "HW 3",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 4,
-          assignmentName: "Assignment 4",
+          assignmentName: "HW 4",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 5,
-          assignmentName: "Assignment 5",
+          assignmentName: "HW 5",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 6,
-          assignmentName: "Assignment 6",
+          assignmentName: "HW 6",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 7,
-          assignmentName: "Assignment 7",
+          assignmentName: "HW 7",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 8,
-          assignmentName: "Assignment 8",
+          assignmentName: "HW 8",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 9,
-          assignmentName: "Assignment 9",
+          assignmentName: "HW 9",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 10,
-          assignmentName: "Assignment 10",
+          assignmentName: "HW 10",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 11,
-          assignmentName: "Assignment 11",
+          assignmentName: "HW 11",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
@@ -167,74 +167,107 @@ const CoursePage = () => {
       courseId: 3,
       subject: "Python",
       courseName: "NU 102 Intro To Programming",
-      courseDescription: "From Assignment 1 till Assignment 11",
+      courseDescription: "Sheet 1 till Sheet 10",
       assignments: [
         {
           assignmentId: 1,
-          assignmentName: "Assignment 1",
+          assignmentName: "Sheet 1",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 2,
-          assignmentName: "Assignment 2",
+          assignmentName: "Sheet 2",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 3,
-          assignmentName: "Assignment 3",
+          assignmentName: "Sheet 3",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 4,
-          assignmentName: "Assignment 4",
+          assignmentName: "Sheet 4",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 5,
-          assignmentName: "Assignment 5",
+          assignmentName: "Sheet 5",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 6,
-          assignmentName: "Assignment 6",
+          assignmentName: "Sheet 6",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 7,
-          assignmentName: "Assignment 7",
+          assignmentName: "Sheet 7",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 8,
-          assignmentName: "Assignment 8",
+          assignmentName: "Sheet 8",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 9,
-          assignmentName: "Assignment 9",
+          assignmentName: "Sheet 9",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 10,
-          assignmentName: "Assignment 10",
+          assignmentName: "Sheet 10",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
         {
           assignmentId: 11,
-          assignmentName: "Assignment 11",
+          assignmentName: "Sheet 11",
           url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
           isDone: false,
         },
+      ],
+    },
+    {
+      courseId: 4,
+      subject: "IT",
+      courseName: "NU 101 Computer and Information Skills",
+      courseDescription: "4 Lab Tasks",
+      assignments: [
+        {
+          assignmentId: 1,
+          assignmentName: "Lab Task 1",
+          url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
+          isDone: false,
+        },
+        {
+          assignmentId: 2,
+          assignmentName: "Lab Task 2",
+          url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
+          isDone: false,
+        },
+        {
+          assignmentId: 3,
+          assignmentName: "Lab Task 3",
+          url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
+          isDone: false,
+        },
+        {
+          assignmentId: 4,
+          assignmentName: "Lab Task 4",
+          url: "https://youtu.be/f0oy-NicIgE?si=JTJME_1lu7_bzMTT",
+          isDone: false,
+        },
+        
       ],
     },
   ]);
@@ -245,7 +278,7 @@ const CoursePage = () => {
 
   useEffect(() => {
     const savedData = JSON.parse(localStorage.getItem("data"));
-    if (savedData) {
+    if (savedData.length===courses.length) {
       setCourses(savedData);
     }else{
       localStorage.setItem("data", JSON.stringify(courses));

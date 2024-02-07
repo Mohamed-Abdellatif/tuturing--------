@@ -7,7 +7,7 @@ const CourseListItem = ({ course }) => {
       key={course.courseId}
       className="course-list-row mb-3 list-group-item d-flex justify-content-between align-items-center mx-0"
     >
-      <Col xs={12} md={5} xl={3} className="border-end border-black ">
+      <Col xs={12} md={5} xl={3} className="border-end border-black text-truncate ">
         <span className=" pe-xl-2  ">{course.courseName}</span>
       </Col>
       <Col xs={12} md={6} xl={4}>

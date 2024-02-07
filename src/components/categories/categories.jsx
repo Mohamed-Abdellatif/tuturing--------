@@ -15,19 +15,25 @@ const Categories = () => {
       courseId: 1,
       subject: "Math",
       courseName: "NU Calculus 1",
-      courseDescription: "From Assignment 1 till Assignment 11",
+      courseDescription: "HW 1 till HW 11",
     },
     {
       courseId: 2,
       subject: "Physics",
       courseName: "NU Physics 1",
-      courseDescription: "From Assignment 1 till Assignment 11",
+      courseDescription: "Assignment 1 till Assignment 11",
     },
     {
       courseId: 3,
       subject: "Python",
       courseName: "NU 102 Intro To Programming",
-      courseDescription: "From Assignment 1 till Assignment 11",
+      courseDescription: "Sheet 1 till Sheet 10",
+    },
+    {
+      courseId: 4,
+      subject: "IT",
+      courseName: "NU 101 Computer and Information Skills",
+      courseDescription: "4 Lab Tasks",
     },
   ];
   // --------------------------------------------------------------------- search courses
