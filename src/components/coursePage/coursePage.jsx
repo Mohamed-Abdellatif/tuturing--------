@@ -361,7 +361,7 @@ const CoursePage = () => {
         </Row>
 
         <ListGroup as="ul">
-          {filteredAssignments.length > 0 ? (
+          {filteredAssignments && filteredAssignments.length > 0 ? (
             <AssignmentsList
               assignments={filteredAssignments}
               updateData={updateIsDone}
