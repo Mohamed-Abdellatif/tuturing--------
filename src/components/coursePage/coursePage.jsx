@@ -278,7 +278,7 @@ const CoursePage = () => {
 
   useEffect(() => {
     const savedData = JSON.parse(localStorage.getItem("data"));
-    if (savedData.length===courses.length) {
+    if (savedData && (savedData.length===courses.length)) {
       setCourses(savedData);
     }else{
       localStorage.setItem("data", JSON.stringify(courses));
